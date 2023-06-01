@@ -1,0 +1,23 @@
+.question {
+    font-size: 20px;
+    color: black;
+  }
+  .alternatives {
+    font-size: 20px;
+    color: white;
+  }
+  
+  /* Outros estilos CSS... */
+  .question-image {
+    background-image: url('/src/assets/Quiz.png');
+    width: 1518px;
+    height: 194px;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  }
+
+  h1{
+    text-align: center;
+    }
+    
